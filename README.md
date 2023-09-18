@@ -6,4 +6,4 @@ A login and registration page
 - 📗 CSS
 
 ## To acess the project: 
-- 
+- https://joaoruffino.github.io/page-login/
